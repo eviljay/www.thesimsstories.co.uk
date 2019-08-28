@@ -1,0 +1,86 @@
+/* ---- global -------------------------------- */
+body { background-image: url(../Images/bg_2nd.gif); }
+
+/* ---- main layout --------------------------- */
+#top {
+	height: 368px;
+	background-repeat: no-repeat;
+	background-position: 0px 25px;
+}
+
+#backarrow {
+	position: absolute;
+	width: 100px;
+	height: 51px;
+	margin: 316px 0 0 37px;
+}
+
+#content { background-position: 0px -15px; }
+#contenttext { padding-left: 30px; }
+
+#contenttext ul {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	margin: 0 0 0 5px;
+	padding: 0;
+}
+
+#contenttext li {
+	list-style: none;
+	background: url(../Images/orangebullet.gif) 1px 7px no-repeat;
+	padding-left: 12px;
+	margin: 0 0 5px 0;
+}
+
+#content h1 { text-align: left; font-size: 18px; }
+#content h2 {
+	color: #5BBD4E;
+	font-size: 15px;
+	margin: 0 0 5px 0;
+	padding: 0;
+}
+
+#content p {
+	margin-bottom: 20px;
+	padding: 0 10px 0 0;
+}
+
+#sidebar {
+	background-color: #83C420;
+	width: 175px;
+	text-align: center;
+}
+
+#sidebar img {
+	margin: 5px 0 10px 0;
+	border: 1px solid #fff;
+}
+
+#inner {background-image: none;}
+
+#screenshots {
+	clear: both;
+	float: right;
+	padding: 20px 20px 0 10px;
+}
+#screenshots img { border: 0px; margin: 0 0 7px 7px; border: 1px solid #EAA526; }
+#screenshots h3 {
+	margin: 0 0 5px 13px;
+	background: url(../Images/orangebullet.gif) 1px 5px no-repeat;
+	font-size: 10px;
+	color: #5BBD4E;
+	padding: 0 0 0 13px;
+}
+
+#footer { padding-top: 150px; }
+
+#proBanners {
+	float: right;
+	margin: 0 20px 10px 0;
+	width: 173px;
+	overflow: hidden;
+}
+
+* html #proBanners {
+	overflow-x: hidden; overflow-y: visible;
+}

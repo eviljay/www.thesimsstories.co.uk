@@ -1,0 +1,240 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="ctl00_Head1"><title>
+	
+</title><link rel="stylesheet" type="text/css" href="Css/stories.css" />
+    <script type="text/javascript" src="Lib/dropdown.js"></script>
+<meta name="keywords" content="" /><meta name="description" content="" /><meta http-equiv="Content-Type" content="text/html; utf-8" /></head>
+<body>
+    <form name="aspnetForm" method="post" action="/PagesView.aspx?id=5241" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTUyNzY0NjMxNQ9kFgJmD2QWAgIDD2QWAgIDD2QWBAIDDw8WAh4YRHluUGFnZVJlbmRlcmVyMV9wYWdlX2lkAvkoZGQCBQ8PFgIeB1Zpc2libGVoZGRka3bS3KTOVeT9TECtoTq3WW8zXzg=" />
+
+        <table id="wrapper" align="center" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+	            <td id="lbg">&nbsp;</td>
+	            <td class="middle">
+                    
+<div id="top" style="background-image: url(images/top_banners/en_mainbanner_out.jpg);">
+    <div id="laptop"><a href="ProductsView.aspx?id=9671#features"><img src="images/laptop.gif"></a></div>
+    <div id="homebutton"><a href="Default.aspx">Home</a></div>
+    <div id="topline2"><a href="ProductsView.aspx?id=9671#features">PC LAPTOP FRIENDLY</a></div>
+    <div id="topline">PC LAPTOP FRIENDLY</div>
+    <a href="Register.aspx" id="ctl00_topSection_regStarLink" class="regStarLink"><img src="Images/1px.gif" width="127" height="112" /></a>
+    
+    
+<script type="text/javascript">
+	//Contents for menu 1
+	var menu1=new Array();
+	menu1[0]='<a href="ProductsView.aspx?id=9671">The Sims™<br> Life Stories</a>';
+menu1[1]='<a href="ProductsView.aspx?id=9673">The Sims™<br> Pet Stories</a>';
+menu1[2]='<a href="ProductsView.aspx?id=9669">The Sims™<br> Castaway Stories</a>';
+
+
+	//Contents for menu 2
+	var menu2=new Array();
+	menu2[0]='<a href="CoolStuff.aspx">Welcome Kit</a>';
+menu2[1]='<a href="CoolStuff.aspx">Wallpapers</a>';
+
+
+	//Contents for menu 3, and so on
+	var menu4=new Array();
+	menu4[0]='<a href="http://www.TheSimsStories.co.uk">UK</a>';
+menu4[1]='<a href="http://thesimsstories.com">US</a>';
+menu4[2]='<a href="http://www.lessimshistoires.be/">Belgium</a>';
+menu4[3]='<a href="http://www.TheSimsHistorias.com.br">Brasil</a>';
+menu4[4]='<a href="http://www.ea.com.cn/china/games/pc/sims/lifestories/">China</a>';
+menu4[5]='<a href="http://www.thesimspribehy.cz">Czech Republic</a>';
+menu4[6]='<a href="http://www.TheSimsStories.dk">Danmark</a>';
+menu4[7]='<a href="http://www.DieSimsGeschichten.de">Deutschland</a>';
+menu4[8]='<a href="http://www.LosSimsHistorias.es">Espa&ntilde;a</a>';
+menu4[9]='<a href="http://www.LesSims-Histoires.fr">French</a>';
+menu4[10]='<a href="http://www.thesimskronikak.hu">Hungary</a>';
+menu4[11]='<a href="http://www.TheSimsStories.it">Italia</a>';
+menu4[12]='<a href="http://www.thesims.jp/stories/life/">Japan</a>';
+menu4[13]='<a href="http://www.DeSimsVerhalen.nl">Nederland</a>';
+menu4[14]='<a href="http://www.thesimshistorie.pl">Poland</a>';
+menu4[15]='<a href="http://www.OsSimsHistorias.pt">Portugal</a>';
+menu4[16]='<a href="http://www.thesimsstories.ru">Russia</a>';
+menu4[17]='<a href="http://www.TheSimsHistorier.se">Sverige</a>';
+menu4[18]='<a href="http://thesims2.ea.com.tw/lifestories">Taiwan</a>';
+menu4[19]='<a href="http://www.ea.co.th/eagames/Sims/SimsLifeStories.php">Thailand</a>';
+
+</script>
+<table id="navbar" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+        <td valign="top" id="nav1" onmouseover="dropdownmenu(this, event, menu1, '145px')" onmouseout="delayhidemenu()"><a href="">Game Finder</a></td>
+        <td valign="top" id="nav2" onmouseover="dropdownmenu(this, event, menu2, '145px')" onmouseout="delayhidemenu()"><a href="CoolStuff.aspx">Cool Stuff</a></td>
+        <td valign="top" id="nav3"><a href="PagesView.aspx?id=5242">Help!</a></td>
+    </tr>
+</table>
+<div id="nav4"><a href="" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu4, '120px')" onmouseout="delayhidemenu()">Languages</a></div>
+    
+<div id="login">
+    <div id="ctl00_topSection_loginStatus_pnlAnon">
+	
+            <p>
+                <a href="Login.aspx">Log in</a> | <a href="Register.aspx">Sign up</a><br>
+                <a href="PagesView.aspx?id=5243">Why Should I Join?</a>
+            </p>    
+    
+</div>
+    
+</div>
+
+
+</div>
+	            </td>
+	            <td id="rbg">&nbsp;</td>
+            </tr>
+            <tr>
+	            <td>&nbsp;</td>
+	            <td class="middle" id="content">
+	                <div id="inner">
+                        
+    
+<div id="SiteCatalystStats">
+    <!-- OMNITURE STATUS: OK -->
+    <!-- SiteCatalyst code version: H.0.
+    Copyright 1997-2005 Omniture, Inc. More info available at http://www.omniture.com -->
+    <script language="javascript">
+    <!--
+        /* Specify the Report Suite ID(s) to track here */
+        var s_account="eagamesuk,eaeacom,eaproducteauk,eaeabranduk"
+        var s_imageDisableFlag=0
+        //-->
+        </script>
+        <script language="JavaScript" src="SiteCatalyst/s_code_remote_v02.js"></script>
+        <script language="JavaScript">
+        <!--
+        /* You may give each page an identifying name, server, and channel on
+        the next lines. */
+        s_ea.pageName="Page - FAQ"
+        s_ea.server=""
+        s_ea.channel="EA"
+        s_ea.pageType=""
+        s_ea.prop1="No ID"
+        s_ea.prop2="Unset"
+        s_ea.prop3="EA"
+        s_ea.prop4=""
+        s_ea.prop5="PRODUCT-EA"
+        s_ea.prop6=""
+        s_ea.prop7="EA : EA : PRODUCT : The Sims Stories : Page - FAQ"
+        s_ea.prop8="Unset"
+        s_ea.prop9="Unset"
+        s_ea.prop10="Unset"
+        s_ea.prop11="uk"
+        s_ea.prop12="en_GB"
+        s_ea.prop13="Unset"
+        s_ea.prop14="Unset"
+        s_ea.prop15="Unset"
+        s_ea.prop16="Unset : Unset : Unset : Unset"
+        s_ea.prop17=""
+        s_ea.prop18=""
+        s_ea.prop19=""
+        s_ea.prop20=""
+
+
+
+        /* E-commerce Variables */
+        s_ea.state=""
+        s_ea.zip=""
+        s_ea.events=""
+        s_ea.products=""
+        s_ea.purchaseID=""
+        s_ea.eVar1=""
+        s_ea.eVar2=""
+        s_ea.eVar3=""
+        s_ea.eVar4=""
+        s_ea.eVar5=""
+        s_ea.eVar6=""
+        s_ea.eVar7=""
+        s_ea.eVar8=""
+        s_ea.eVar9=""
+        s_ea.eVar10=""
+        s_ea.eVar11=""
+        s_ea.eVar12=""
+        s_ea.eVar13=""
+        s_ea.eVar14=""
+        s_ea.eVar15=""
+        s_ea.eVar16=""
+        s_ea.eVar17=""
+        s_ea.eVar18=""
+        s_ea.eVar19=""
+        s_ea.eVar20=""
+
+
+        /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+        if((s_imageDisableFlag == null) || (typeof (s_imageDisableFlag) == 'undefined') || (!s_imageDisableFlag)){
+        var s_code=s_ea.t();if(s_code)document.write(s_code)}//-->
+    </script>
+    <!-- End SiteCatalyst code version: H.0. -->	
+</div>
+	<div class="selfClear">
+	    <div id="dynPage">
+			<table width="594" border="0" cellspacing="0" cellpadding="0"><tr><td width="594" colspan="2"><h2>Help!</h2>
+			<b>General Story Hints:</b>
+			<ul>
+				<li>Use the time between goals to take care of your Sim's needs. If your Sim is in a bad mood they will have a difficult time completing their goals. </li>
+				<li>Should a fire start in your home, the smoke alarms will immediately notify the Fire Department. Leave the extinguishing to them! </li>
+				<li>Before heading to a community lot, make sure and check your Mood Meter. You just don't know how long you will have to be out. Better to be prepared. </li>
+				<li>Pay close attention to the time. If you miss a meeting with a Sim, try again another day. </li>
+				<li>If playing with the sound off, make sure and look for the visual alerts of an incoming phone call. Important story line information can often arrive by phone. If you think you missed a call, better to stick around the home. Who ever it was will probably call back soon. </li>
+				<li>Sims still require their needs to be met throughout the stories; otherwise they may not be in the mood to follow instructions. A happy Sim is a compliant Sim. </li>
+			</ul>
+			<br/>
+			<b>Riley's Story Hints</b>
+			<ul>
+				<li>Early in Chapter 1, when talking to Mickey, try to improve your long term and short term relationship with him by talking, flirting, telling jokes, and generally paying attention to him! </li>
+				<li>It may take some time to win Mickey's love. Flirt with him as often as possible to make goals easier down the line. </li>
+				<li>Paying attention to Riley's motives while you're in between goals will help you fulfill the goals and complete the game much more easily. </li>
+				<li>When ordering for two, make sure you have the waiter's full attention. If the restaurant is busy, just chat with your date for a moment to give the waiter time to come by your table. </li>
+				<li>In Chapter 9, talking to Mickey over the phone is good for reestablishing your relationship, but nothing works better than some one-on-one time together. </li>
+				<li>During her pregnancy, Riley's needs can fluctuate greatly. To make things easier for her, try hiring some help or let Mickey pull his weight while she takes it easy. </li>
+			</ul>
+			<br/>
+			<b>Vincent's Story Hints</b>
+			<ul>
+				<li>A first kiss shouldn't take place in a loud and crowded bowling alley. Lead your date to the back patio to get the sparks flying. </li>
+				<li>As nice as it would be to stop Samantha from destroying your things it would probably be dangerous to get in her path right now. You'd better just let her get it out of her system. </li>
+				<li>Vincent really likes to hang out and bowl with his friends even to the early hours of the morning. Make sure he's well rested before he heads out in Chapter 2. Nothing's more embarrassing than falling asleep between frames. </li>
+				<li>Maxing out your skills early can help alleviate missions that require skill gains. If Vincent is a guitar rockstar before Chapter 12, he won't have to rush to earn a skill rating before Naomi's expected arrival. </li>
+				<li>At times other Sims may be mean to you no matter what you do. Some people just have anger issues. </li>
+				<li>Keep track of all your guests when having a party. Invite them to join you if you want them to participate in the fun. </li>
+			</ul></td></tr><tr><td width="297" valign="top"></td><td width="297" valign="top"></td></tr><tr><td width="594" colspan="2"></td></tr></table>
+	    </div>
+	    <div id="tipModule">
+			
+	    </div>
+    </div>
+
+		            </div>
+	            </td>
+	            <td>&nbsp;</td>
+            </tr>
+            <tr>
+	            <td>&nbsp;</td>
+	            <td class="middle" id="footerwp">
+                    
+<div id="footer">
+    <table class="footer" align="center" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+            <td>
+                <ul id="ctl00_fFooter_ghcLogoList" class="images"><li class="first"><a title="Pegi 12+" href="http://www.pegi.info/"><img src="/images/images/2630-12+.gif" /></a></li></ul>
+            </td>
+        </tr>
+        <tr>
+            <td class="legallist">
+                <ul id="ctl00_fFooter_ghcLegalList"><li class="first"><a href="http://www.ea.com/global/legal/legalnotice.jsp">©2007 Electronic Arts Inc. All rights reserved.</a></li><li><a href="http://www.ea.com/global/legal/privacy_noseal.jsp">Privacy policy</a></li><li><a href="http://www.ea.com/global/legal/tos.jsp">Terms of Service</a></li><li><a href="http://jobs.ea.com/pljb/ElectronicArts/Europe/applicant/index.jsp">Jobs at EA</a></li><li><a href="http://www.electronicarts.co.uk/press">Press</a></li></ul>
+            </td>
+        </tr>
+    </table>
+</div>
+	            </td>
+	            <td>&nbsp;</td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

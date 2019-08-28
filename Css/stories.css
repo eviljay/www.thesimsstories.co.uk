@@ -1,0 +1,366 @@
+@import url(spot-layout.css);
+
+/* ---- global -------------------------------- */
+body {
+	margin: 0;
+	padding: 0 0 30px 0;
+	background: url(../Images/bg.jpg) repeat-x;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #004E8E;
+}
+
+p,td {
+	font-size: 13px;
+	line-height: 14px;
+	color: #004E8E;
+}
+
+img {
+	border: 0px;
+}
+
+/* ---- common -------------------------------- */
+
+.selfClear:after {
+    content: "."; 
+    display: block; 
+    height: 0; 
+    clear: both; 
+    visibility: hidden;
+}
+
+.selfClear {
+	display: inline-block;
+}
+
+/* Hide from IE-mac \*/
+* html .selfClear {
+	height: 1%;
+}
+
+.selfClear {
+	display: block;
+}
+/* End hide from IE-mac */
+
+td.middle {
+	width: 799px;
+}
+
+.boxshot {
+	width: 237px;
+	padding-right: 5px;
+}
+
+.boxshot h2 {
+	color: #5BBD4E;
+	font-size: 15px;
+	margin: 0;
+	padding: 0;
+}
+
+.boxshot img {
+	float: left;
+	margin-right: 5px;
+}
+
+.boxshot p {
+	margin: 0; padding: 0;
+}
+
+.boxshot ul {
+	color: #5BBD4E;
+	margin-top: 0;
+	margin-left: 0;
+	padding-left: 6px;
+	font-weight: bold;
+	font-size: 13px;
+}
+
+.boxshot li {
+	list-style: none;
+	background: url(../Images/orangebullet.gif) 1px 6px no-repeat;
+	margin: 0; padding: 0;
+	padding-left: 10px;
+}
+
+.boxshot li a:link, .boxshot li a:visited, .boxshot li a:active {
+	color: #5BBD4E;
+	text-decoration: none;
+}
+
+.boxshot li a:hover {
+	text-decoration: underline;
+}
+
+.loginName {
+	color: #EAA526;
+	font-size: 18px;
+	margin: 0 0 15px 0;
+	padding: 0;
+	display: block;
+}
+
+/* ---- headings ------------------------------ */
+h1 {
+	color: #EAA526;
+	margin: 0; padding: 0;
+	line-height: normal;
+	font-size: 32px;
+}
+
+h2 {
+	color: #5FBC51;
+	font-size: 15px;
+	margin: 0 0 4px 0;
+	padding: 0;
+}
+
+h5 {
+	font-size: 13px;
+	margin: 0;
+	padding: 0;
+}
+
+/* ---- links --------------------------------- */
+
+/* ---- navigation ---------------------------- */
+#homebutton {
+	position: absolute;
+	margin-top: 76px;
+	padding-left: 6px;
+	z-index: 200;
+}
+
+#homebutton a {
+	background: url(../images/backarrow_sm.gif) no-repeat;
+	display: block;
+	color: #fff;	
+	font-weight: bold;
+	font-size: 12px;
+	text-decoration: none;
+	line-height: 15px;
+	padding: 3px 0 0 23px;
+}
+#homebutton a:hover { text-decoration: underline; }
+
+#navbar {
+	position: absolute;
+	color: #51B848;
+	font-weight: bold;
+	font-size: 14px;
+	margin-left: 0px;
+	height: 36px;
+	top: 95px;
+}
+
+#navbar a {
+	color: #51B848;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 14px;
+	display: block;
+	margin: 0;
+	padding: 0;
+	line-height: 36px;
+}
+
+#navbar a:hover, #nav4 a:hover { color: #ECFCD4; }
+
+#nav1, #nav2, #nav3 {
+	background: url(../Images/nav1.gif) 6px 5px no-repeat;
+	padding-left: 28px;
+}
+
+#nav2 { background-image: url(../Images/nav2.gif); padding-left: 35px;}
+#nav3 { background-image: url(../Images/nav3.gif); padding-left: 37px;}
+#nav4 { position: absolute; margin-left: 385px; top: 96px; height: 36px; width: 320px;}
+
+#nav4 a {
+	float: right;
+	background: url(../Images/globe.gif) 6px 5px no-repeat;
+	padding-left: 40px;
+	color: #51B848;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 14px;
+	height: 36px;
+	line-height: 36px;
+}
+
+#dropmenudiv {
+	position:absolute;
+	border: 1px solid #51B848;
+	border-bottom-width: 0;
+	font:normal 12px Verdana;
+	line-height:18px;
+	z-index:100;
+}
+
+#dropmenudiv a {
+	color: #469E3E;
+	width: 100%;
+	display: block;
+	text-indent: 3px;
+	border-bottom: 1px solid #51B848;
+	padding: 1px 0;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+#dropmenudiv a:hover { background-color: #E2FFB6; }
+
+.regStarLink {
+	position: absolute;
+	top: 286px;
+	left: 631px;
+	display: block;
+}
+
+#login {
+	position: absolute;
+	top: 322px;
+	left: 35px;
+}
+
+#login p {
+	color: #0A5694;
+	width: 160px;
+	font-weight: bold;
+	font-size: 12px;
+	line-height: 17px;
+	margin: 0;
+	padding-top: 2px;
+}
+#login a { color: white; text-decoration: none; }
+#login a:hover { text-decoration: underline; }
+
+
+/* ---- main layout --------------------------- */
+#wrapper {
+	margin-left: auto;
+	margin-right: auto;
+	width: 839px;
+}
+
+#top {
+	height: 399px;
+	background: url(../Images/banner.jpg) 0px 75px no-repeat;
+	position: relative;
+}
+
+#topline {
+	position: absolute;
+	top: 80px; right: 78px;
+	text-align: right;
+	font-weight: bold;
+	font-size: 13px;
+	color: darkblue;
+}
+
+#topline2 {
+	position: absolute;
+	top: 79px; right: 79px;
+	text-align: right;
+	font-weight: bold;
+	font-size: 13px;
+	color: white;
+	z-index: 1;
+}
+
+#topline2 a {
+	color: white;
+	text-decoration: none;
+}
+
+#laptop {
+	position: absolute;
+	margin: 68px 0 0 709px;
+	width: 86px;
+	height: 76px;
+}
+
+#content {
+	background: url(../Images/bg_content.jpg) repeat-x;
+}
+
+#content h1 {
+	text-align: center;
+}
+
+#content p {
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+
+#inner {
+	background: url(../Images/bg_contentbottom.gif) bottom center no-repeat;
+}
+
+#lbg {
+	background: url(../Images/lbg.gif) 0px 248px no-repeat;
+}
+
+#rbg {
+	background: url(../Images/rbg_top.gif) 0px 232px no-repeat;
+}
+
+
+/* ---- footer ------------------------------------- */
+#footerwp {
+	background: url(../Images/bg_footer.gif) no-repeat;
+}
+
+#footer {
+	padding-top: 100px;
+}
+
+.footer {
+	width: 100%;
+}
+
+.footer td {
+	text-align: center;
+}
+
+.footer td img {
+	vertical-align: middle;
+}
+
+.footer .legallist {
+	font-size: 10px;
+	color: #51B848;
+	padding: 0;
+}
+
+.footer li {
+	display: inline;
+	border-left: 1px solid #51B848;
+	padding: 0 5px 0 5px;
+}
+
+.footer ul {
+	margin-left: 0;
+	padding-left: 0;
+}
+
+.footer .images li {
+	border: none;
+}
+
+.footer .first {
+	border: none !important;
+}
+
+.footer a {
+	color: #51B848;
+	font-size: 8pt;
+}
+
+/* ---- login status - products ---------------------------------------- */
+
+.productLoginInfo {
+	position: absolute;
+	top: -98px;
+	left: -10px;
+}

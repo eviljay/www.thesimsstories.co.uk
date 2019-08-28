@@ -1,0 +1,309 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="ctl00_Head1"><title>
+	 - The Sims™ Castaway Stories
+</title><link rel="stylesheet" type="text/css" href="Css/stories.css" /><link rel="stylesheet" type="text/css" href="Css/stories_2nd.css" />
+	<script type="text/javascript" src="Lib/AXFixLib.js"></script>
+	<script type="text/javascript" src="Lib/common.js"></script>
+	<script type="text/javascript" src="Lib/dropdown.js"></script>
+<meta name="keywords" content="" /><meta name="description" content="" /><meta http-equiv="Content-Type" content="text/html; utf-8" /></head>
+<body>
+    <form name="aspnetForm" method="post" action="ProductsView.aspx?id=9669" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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AhMPZBYCZg8VAx8xNTU3Mzgtc2ltc2Nhc3Rhd2F5c3RvcmllczIuanBnHzE1NTczOC1zaW1zY2FzdGF3YXlzdG9yaWVzMi5qcGcGMTU1NzM4ZAIEDxYCHwYFmQk8cD5UaGUgU2ltcyBDYXN0YXdheSBTdG9yaWVzIGlzIHRoZSB0aGlyZCB0aXRsZSBpbiB0aGUgYWxsLW5ldyBnYW1lIHNlcmllcyBjYWxsZWQgVGhlIFNpbXMgU3Rvcmllcy48YnIgLz4NPGJyLz48YnIgLz4NPGJyLz5UaGlzIHRpbWUgeW91ciBTaW1zIGhhdmUgd2FzaGVkIHVwIG9uIGEgdHJvcGljYWwgaXNsYW5kLiBIZWxwIHRoZW0gbWFrZSBhIG5ldyBsaWZlIGluIGFuIHVuZXhwbG9yZWQgcGFyYWRpc2UgaW4gdGhpcyBlYXN5LXRvLXBsYXksIGxhcHRvcC1mcmllbmRseSB2ZXJzaW9uIG9mIFRoZSBTaW1zLjxiciAvPg08YnIvPjxiciAvPg08YnIvPlRoZSBTaW1zIENhc3Rhd2F5IFN0b3JpZXMgZmVhdHVyZXMgdHdvIGdyZWF0IHdheXMgdG8gcGxheS4gSW4gdGhlIG5ldyBhbmQgZW5nYWdpbmcgZGlyZWN0ZWQgU3RvcnkgbW9kZSwgZXhwbG9yZSB0aGUgaXNsYW5kLCBidWlsZCBhIHNoZWx0ZXIsIGxlYXJuIHRvIGZpbmQgZm9vZCwgYW5kIG1ha2UgeW91ciBTaW1zJyBsaXZlcyBhcyBmdW4gYW5kIGNvbWZvcnRhYmxlIGFzIHBvc3NpYmxlLiBZb3UgZXZlbiB1bmxvY2sgcmV3YXJkcyBhbG9uZyB0aGUgd2F5IGFzIHlvdSBhY2hpZXZlIHNldCBnb2Fscy48YnIgLz4NPGJyLz48YnIgLz4NPGJyLz5JbiBvcGVuLWVuZGVkIENsYXNzaWMgbW9kZSwgeW91IGNyZWF0ZSB5b3VyIFNpbXMgYW5kIGRldGVybWluZSBob3cgdGhleSdsbCBldm9sdmUgb24gdGhlaXIgbmV3IGlzbGFuZCBob21lLiBJbiBhbiBlbnZpcm9ubWVudCB3aGVyZSBhbnl0aGluZy1vciBhbnlvbmUtY2FuIHdhc2ggdXAgb24gdGhlIGJlYWNoLCB5b3UgZGVjaWRlIGhvdyB0aGVpciBzdG9yaWVzIHVuZm9sZC4gVGhlIFNpbXMgQ2FzdGF3YXkgU3RvcmllcyB3YXNoZXMgYXNob3JlIGluIFdpbnRlciAyMDA4LjwvcD4NPGJyLz48cD48YSBocmVmPSJodHRwOi8vZWFzdG9yZS5lYS5jb20vc3RvcmUvZWFlbWVhL2VuX0dCL0Rpc3BsYXlQcm9kdWN0RGV0YWlsc1BhZ2UvcHJvZHVjdElELjg0NDkxNTAwL3BnbS4xMzUxNzMwMC9UaGVtZUlELjg1MDMwMC9DdXJyZW5jeS5HQlAiPjxpbWcgaGVpZ2h0PSIyNiIgYWx0PSIiIHdpZHRoPSIyMDAiIGJvcmRlcj0iMCIgc3JjPSJodHRwOi8vZWEucGhvc2Rldi5zZS9pbWFnZXMvaW1hZ2VzLzEyNTg1OC1lYXN0b3JlX2ljb25kb3dubG9hZF9hbHQuZ2lmIiAvPjwvYT48L3A+ZAIFDxYCHgdWaXNpYmxlZ2RkO+Dk6TP62uWUfsk4VwFKyGUSPuQ=" />
+
+        
+<div id="SiteCatalystStats">
+    <!-- OMNITURE STATUS: OK -->
+    <!-- SiteCatalyst code version: H.0.
+    Copyright 1997-2005 Omniture, Inc. More info available at http://www.omniture.com -->
+    <script language="javascript">
+    <!--
+        /* Specify the Report Suite ID(s) to track here */
+        var s_account="eagamesuk,eaeacom,eaproducteauk,eaeabranduk"
+        var s_imageDisableFlag=0
+        //-->
+        </script>
+        <script language="JavaScript" src="SiteCatalyst/s_code_remote_v02.js"></script>
+        <script language="JavaScript">
+        <!--
+        /* You may give each page an identifying name, server, and channel on
+        the next lines. */
+        s_ea.pageName="Games - The Sims Castaway Stories"
+        s_ea.server=""
+        s_ea.channel="EA"
+        s_ea.pageType=""
+        s_ea.prop1="No ID"
+        s_ea.prop2="Unset"
+        s_ea.prop3="EA"
+        s_ea.prop4="SIMS"
+        s_ea.prop5="PRODUCT-EA"
+        s_ea.prop6=""
+        s_ea.prop7="EA : EA : PRODUCT : The Sims Stories : Games - The Sims Castaway Stories"
+        s_ea.prop8="Unset"
+        s_ea.prop9="Unset"
+        s_ea.prop10="Unset"
+        s_ea.prop11="uk"
+        s_ea.prop12="en_GB"
+        s_ea.prop13="Unset"
+        s_ea.prop14="Unset"
+        s_ea.prop15="Unset"
+        s_ea.prop16="Unset : Unset : Unset : Unset"
+        s_ea.prop17=""
+        s_ea.prop18=""
+        s_ea.prop19=""
+        s_ea.prop20=""
+
+
+
+        /* E-commerce Variables */
+        s_ea.state=""
+        s_ea.zip=""
+        s_ea.events=""
+        s_ea.products=""
+        s_ea.purchaseID=""
+        s_ea.eVar1=""
+        s_ea.eVar2=""
+        s_ea.eVar3=""
+        s_ea.eVar4=""
+        s_ea.eVar5=""
+        s_ea.eVar6=""
+        s_ea.eVar7=""
+        s_ea.eVar8=""
+        s_ea.eVar9=""
+        s_ea.eVar10=""
+        s_ea.eVar11=""
+        s_ea.eVar12=""
+        s_ea.eVar13=""
+        s_ea.eVar14=""
+        s_ea.eVar15=""
+        s_ea.eVar16=""
+        s_ea.eVar17=""
+        s_ea.eVar18=""
+        s_ea.eVar19=""
+        s_ea.eVar20=""
+
+
+        /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+        if((s_imageDisableFlag == null) || (typeof (s_imageDisableFlag) == 'undefined') || (!s_imageDisableFlag)){
+        var s_code=s_ea.t();if(s_code)document.write(s_code)}//-->
+    </script>
+    <!-- End SiteCatalyst code version: H.0. -->	
+</div>
+        <table id="wrapper" align="center" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+	            <td>&nbsp;</td>
+	            <td class="middle">
+	                <div id="top" style="background-image: url(/images/images/98137-banner_castawaystories.jpg);">
+						<div class="productLoginInfo">
+<div id="login">
+    <div id="ctl00_loginStatus_pnlAnon">
+	
+            <p>
+                <a href="Login.aspx">Log in</a> | <a href="Register.aspx">Sign up</a><br>
+                <a href="PagesView.aspx?id=5243">Why Should I Join?</a>
+            </p>    
+    
+</div>
+    
+</div>
+
+</div>
+					    <div id="homebutton"><a href="/">Home</a></div>
+<!--	                <div id="backarrow"><a href="Default.aspx"><img src="images/backarrow.gif"></a></div>-->
+	                    <div id="laptop"><a href="ProductsView.aspx?id=9671#features"><img src="images/laptop.gif"></a></div>
+	                    <div id="topline2"><a href="ProductsView.aspx?id=9671#features">PC LAPTOP FRIENDLY</a></div>
+	                    <div id="topline">PC LAPTOP FRIENDLY</div>
+                        
+<script type="text/javascript">
+	//Contents for menu 1
+	var menu1=new Array();
+	menu1[0]='<a href="ProductsView.aspx?id=9671">The Sims™<br> Life Stories</a>';
+menu1[1]='<a href="ProductsView.aspx?id=9673">The Sims™<br> Pet Stories</a>';
+menu1[2]='<a href="ProductsView.aspx?id=9669">The Sims™<br> Castaway Stories</a>';
+
+
+	//Contents for menu 2
+	var menu2=new Array();
+	menu2[0]='<a href="CoolStuff.aspx">Welcome Kit</a>';
+menu2[1]='<a href="CoolStuff.aspx">Wallpapers</a>';
+
+
+	//Contents for menu 3, and so on
+	var menu4=new Array();
+	menu4[0]='<a href="http://www.TheSimsStories.co.uk">UK</a>';
+menu4[1]='<a href="http://thesimsstories.com">US</a>';
+menu4[2]='<a href="http://www.lessimshistoires.be/">Belgium</a>';
+menu4[3]='<a href="http://www.TheSimsHistorias.com.br">Brasil</a>';
+menu4[4]='<a href="http://www.ea.com.cn/china/games/pc/sims/lifestories/">China</a>';
+menu4[5]='<a href="http://www.thesimspribehy.cz">Czech Republic</a>';
+menu4[6]='<a href="http://www.TheSimsStories.dk">Danmark</a>';
+menu4[7]='<a href="http://www.DieSimsGeschichten.de">Deutschland</a>';
+menu4[8]='<a href="http://www.LosSimsHistorias.es">Espa&ntilde;a</a>';
+menu4[9]='<a href="http://www.LesSims-Histoires.fr">French</a>';
+menu4[10]='<a href="http://www.thesimskronikak.hu">Hungary</a>';
+menu4[11]='<a href="http://www.TheSimsStories.it">Italia</a>';
+menu4[12]='<a href="http://www.thesims.jp/stories/life/">Japan</a>';
+menu4[13]='<a href="http://www.DeSimsVerhalen.nl">Nederland</a>';
+menu4[14]='<a href="http://www.thesimshistorie.pl">Poland</a>';
+menu4[15]='<a href="http://www.OsSimsHistorias.pt">Portugal</a>';
+menu4[16]='<a href="http://www.thesimsstories.ru">Russia</a>';
+menu4[17]='<a href="http://www.TheSimsHistorier.se">Sverige</a>';
+menu4[18]='<a href="http://thesims2.ea.com.tw/lifestories">Taiwan</a>';
+menu4[19]='<a href="http://www.ea.co.th/eagames/Sims/SimsLifeStories.php">Thailand</a>';
+
+</script>
+<table id="navbar" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+        <td valign="top" id="nav1" onmouseover="dropdownmenu(this, event, menu1, '145px')" onmouseout="delayhidemenu()"><a href="">Game Finder</a></td>
+        <td valign="top" id="nav2" onmouseover="dropdownmenu(this, event, menu2, '145px')" onmouseout="delayhidemenu()"><a href="CoolStuff.aspx">Cool Stuff</a></td>
+        <td valign="top" id="nav3"><a href="PagesView.aspx?id=5242">Help!</a></td>
+    </tr>
+</table>
+<div id="nav4"><a href="" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu4, '120px')" onmouseout="delayhidemenu()">Languages</a></div>
+	                </div>
+	            </td>
+	            <td>&nbsp;</td>
+            </tr>
+            <tr>
+	            <td>&nbsp;</td>
+	            <td class="middle" id="content">
+	                <div id="inner">
+						
+    <table align="left" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+        <td id="sidebar" valign="top">
+            
+        <a id="ctl00_cphProduct_ppslList1_rptPackShotList_ctl00_hpProdLink" href="ProductsView.aspx?id=9671"><img src="/images/packshots/thumbs/98924.hp2-1.jpg" style="border-width:1px;border-style:solid;" /></a>
+    
+        <a id="ctl00_cphProduct_ppslList1_rptPackShotList_ctl01_hpProdLink" href="ProductsView.aspx?id=9673"><img src="/images/packshots/thumbs/98922.hp2-1.jpg" style="border-width:1px;border-style:solid;" /></a>
+    
+        <a id="ctl00_cphProduct_ppslList1_rptPackShotList_ctl02_hpProdLink" href="ProductsView.aspx?id=9669"><img src="/images/packshots/thumbs/98142.hp2-1.jpg" style="border-width:1px;border-style:solid;" /></a>
+    
+        </td>
+            <td id="contenttext" valign="top">
+                <h1>The Sims™ Castaway Stories</h1>
+                <div id="proBanners">
+					
+        <div class="plainSpotBox" id="proMotion">
+	        <div class="bit"><div></div></div>
+	        <div class="bi">
+		        <div class="bw">
+		            <div class="boxContent">
+			            <a href='/ClickTrace.aspx?id=6301&amp;url=http%3a%2f%2fwww.thesimsstories.co.uk%2fcastaway.aspx' target="" ><img src="/images/images/157736-meet_jessica.gif" style="border-width:0px;" /></a>
+		            </div>
+		        </div>
+	        </div>
+	        <div class="bb"><div>&nbsp;</div></div>
+        </div>					
+    
+
+                </div>
+                
+<div id="screenshots">
+    <h3>Check out the screenshots!</h3>
+    <table id="ctl00_cphProduct_psScreens_dlScreens" cellspacing="0" border="0">
+	<tr>
+		<td>
+            <a href="/Images/screenshots/156531-basketbg1.jpg" onClick="window.open('/Images/screenshots/156531-basketbg1.jpg', 'customize', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=no,width=840,height=640'); return(false)" target="_blank"><img src="/Images/screenshots/thumbs/156531.jpg" width="80" height="60" alt="screenshot" /></a>
+        </td><td>
+            <a href="/Images/screenshots/156532-chess.jpg" onClick="window.open('/Images/screenshots/156532-chess.jpg', 'customize', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=no,width=840,height=640'); return(false)" target="_blank"><img src="/Images/screenshots/thumbs/156532.jpg" width="80" height="60" alt="screenshot" /></a>
+        </td>
+	</tr><tr>
+		<td>
+            <a href="/Images/screenshots/156533-choppingwood.jpg" onClick="window.open('/Images/screenshots/156533-choppingwood.jpg', 'customize', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=no,width=840,height=640'); return(false)" target="_blank"><img src="/Images/screenshots/thumbs/156533.jpg" width="80" height="60" alt="screenshot" /></a>
+        </td><td>
+            <a href="/Images/screenshots/156534-climbingtree.jpg" onClick="window.open('/Images/screenshots/156534-climbingtree.jpg', 'customize', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=no,width=840,height=640'); return(false)" target="_blank"><img src="/Images/screenshots/thumbs/156534.jpg" width="80" height="60" alt="screenshot" /></a>
+        </td>
+	</tr><tr>
+		<td>
+            <a href="/Images/screenshots/156535-eatbanana.jpg" onClick="window.open('/Images/screenshots/156535-eatbanana.jpg', 'customize', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=no,width=840,height=640'); return(false)" target="_blank"><img src="/Images/screenshots/thumbs/156535.jpg" width="80" height="60" alt="screenshot" /></a>
+        </td><td>
+            <a href="/Images/screenshots/156536-gatheringcoconuts.jpg" onClick="window.open('/Images/screenshots/156536-gatheringcoconuts.jpg', 'customize', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=no,width=840,height=640'); return(false)" target="_blank"><img src="/Images/screenshots/thumbs/156536.jpg" width="80" height="60" alt="screenshot" /></a>
+        </td>
+	</tr><tr>
+		<td>
+            <a href="/Images/screenshots/156537-ghost1.jpg" onClick="window.open('/Images/screenshots/156537-ghost1.jpg', 'customize', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=no,width=840,height=640'); return(false)" target="_blank"><img src="/Images/screenshots/thumbs/156537.jpg" width="80" height="60" alt="screenshot" /></a>
+        </td><td>
+            <a href="/Images/screenshots/156538-hottub.jpg" onClick="window.open('/Images/screenshots/156538-hottub.jpg', 'customize', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=no,width=840,height=640'); return(false)" target="_blank"><img src="/Images/screenshots/thumbs/156538.jpg" width="80" height="60" alt="screenshot" /></a>
+        </td>
+	</tr><tr>
+		<td>
+            <a href="/Images/screenshots/156539-jagbg2.jpg" onClick="window.open('/Images/screenshots/156539-jagbg2.jpg', 'customize', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=no,width=840,height=640'); return(false)" target="_blank"><img src="/Images/screenshots/thumbs/156539.jpg" width="80" height="60" alt="screenshot" /></a>
+        </td><td>
+            <a href="/Images/screenshots/156540-orangutans.jpg" onClick="window.open('/Images/screenshots/156540-orangutans.jpg', 'customize', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=no,width=840,height=640'); return(false)" target="_blank"><img src="/Images/screenshots/thumbs/156540.jpg" width="80" height="60" alt="screenshot" /></a>
+        </td>
+	</tr><tr>
+		<td>
+            <a href="/Images/screenshots/156526-potion2.jpg" onClick="window.open('/Images/screenshots/156526-potion2.jpg', 'customize', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=no,width=840,height=640'); return(false)" target="_blank"><img src="/Images/screenshots/thumbs/156526.jpg" width="80" height="60" alt="screenshot" /></a>
+        </td><td>
+            <a href="/Images/screenshots/156527-raft.jpg" onClick="window.open('/Images/screenshots/156527-raft.jpg', 'customize', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=no,width=840,height=640'); return(false)" target="_blank"><img src="/Images/screenshots/thumbs/156527.jpg" width="80" height="60" alt="screenshot" /></a>
+        </td>
+	</tr><tr>
+		<td>
+            <a href="/Images/screenshots/156528-sharingsoup.jpg" onClick="window.open('/Images/screenshots/156528-sharingsoup.jpg', 'customize', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=no,width=840,height=640'); return(false)" target="_blank"><img src="/Images/screenshots/thumbs/156528.jpg" width="80" height="60" alt="screenshot" /></a>
+        </td><td>
+            <a href="/Images/screenshots/156529-walkingcoals.jpg" onClick="window.open('/Images/screenshots/156529-walkingcoals.jpg', 'customize', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=no,width=840,height=640'); return(false)" target="_blank"><img src="/Images/screenshots/thumbs/156529.jpg" width="80" height="60" alt="screenshot" /></a>
+        </td>
+	</tr><tr>
+		<td>
+            <a href="/Images/screenshots/156530-wreck.jpg" onClick="window.open('/Images/screenshots/156530-wreck.jpg', 'customize', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=no,width=840,height=640'); return(false)" target="_blank"><img src="/Images/screenshots/thumbs/156530.jpg" width="80" height="60" alt="screenshot" /></a>
+        </td><td>
+            <a href="/Images/screenshots/155734-simscastawaystories3.jpg" onClick="window.open('/Images/screenshots/155734-simscastawaystories3.jpg', 'customize', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=no,width=840,height=640'); return(false)" target="_blank"><img src="/Images/screenshots/thumbs/155734.jpg" width="80" height="60" alt="screenshot" /></a>
+        </td>
+	</tr><tr>
+		<td>
+            <a href="/Images/screenshots/155735-simscastawaystories4.jpg" onClick="window.open('/Images/screenshots/155735-simscastawaystories4.jpg', 'customize', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=no,width=840,height=640'); return(false)" target="_blank"><img src="/Images/screenshots/thumbs/155735.jpg" width="80" height="60" alt="screenshot" /></a>
+        </td><td>
+            <a href="/Images/screenshots/155736-simscastawaystories5.jpg" onClick="window.open('/Images/screenshots/155736-simscastawaystories5.jpg', 'customize', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=no,width=840,height=640'); return(false)" target="_blank"><img src="/Images/screenshots/thumbs/155736.jpg" width="80" height="60" alt="screenshot" /></a>
+        </td>
+	</tr><tr>
+		<td>
+            <a href="/Images/screenshots/155737-simscastawaystories1.jpg" onClick="window.open('/Images/screenshots/155737-simscastawaystories1.jpg', 'customize', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=no,width=840,height=640'); return(false)" target="_blank"><img src="/Images/screenshots/thumbs/155737.jpg" width="80" height="60" alt="screenshot" /></a>
+        </td><td>
+            <a href="/Images/screenshots/155738-simscastawaystories2.jpg" onClick="window.open('/Images/screenshots/155738-simscastawaystories2.jpg', 'customize', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=no,width=840,height=640'); return(false)" target="_blank"><img src="/Images/screenshots/thumbs/155738.jpg" width="80" height="60" alt="screenshot" /></a>
+        </td>
+	</tr>
+</table>
+</div>
+                <p>
+                    <p>The Sims Castaway Stories is the third title in the all-new game series called The Sims Stories.<br /><br/><br /><br/>This time your Sims have washed up on a tropical island. Help them make a new life in an unexplored paradise in this easy-to-play, laptop-friendly version of The Sims.<br /><br/><br /><br/>The Sims Castaway Stories features two great ways to play. In the new and engaging directed Story mode, explore the island, build a shelter, learn to find food, and make your Sims' lives as fun and comfortable as possible. You even unlock rewards along the way as you achieve set goals.<br /><br/><br /><br/>In open-ended Classic mode, you create your Sims and determine how they'll evolve on their new island home. In an environment where anything-or anyone-can wash up on the beach, you decide how their stories unfold. The Sims Castaway Stories washes ashore in Winter 2008.</p><br/><p><a href="http://eastore.ea.com/store/eaemea/en_GB/DisplayProductDetailsPage/productID.84491500/pgm.13517300/ThemeID.850300/Currency.GBP"><img height="26" alt="" width="200" border="0" src="http://ea.phosdev.se/images/images/125858-eastore_icondownload_alt.gif" /></a></p>
+                </p>
+                <h2>Key features</h2>
+                <a name="features" />
+                <ul><li>Play exciting new story adventures as a castaway on a desert island who needs to survive and thrive. Create and customise your Sims and play through 24 whole new dynamic chapters. Adopt an orangutan, fight off wolves, and choose your own romantic interest, taking on an adventure that is completely your own.</li><li>Create multiple profiles and tell a new, unique story every time.</li><li>All new directed Story mode and classic Free-play mode.</li><li>Featuring simple shortcuts and an all-new auto-pause that lets you start and stop easily when opening/closing your laptop.</li><li>Easily stay in touch with friends by using your own IM & email while playing the game in its own window.</li><li>The Sims Stories line also includes The Sims Life Stories and The Sims Pet Stories.</li></ul>
+                <p>EACH GAME IN THE SIMS STORIES SERIES IS A STANDALONE TITLE AND DOES NOT SUPPORT EXPANSION PACKS OR STUFF PACKS FROM THE SIMS OR THE SIMS 2 GAME COLLECTIONS.</p>
+                
+            </td>
+        </tr>	
+    </table>
+
+		            </div>
+	            </td>
+	            <td>&nbsp;</td>
+            </tr>
+            <tr>
+	            <td>&nbsp;</td>
+	            <td class="middle" id="footerwp" style="background-image: url(/images/images/98134-footer_castawaystories.jpg);">
+		             
+<div id="footer">
+    <table class="footer" align="center" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+            <td>
+                <ul id="ctl00_fFooter_ghcLogoList" class="images"><li class="first"><a title="Pegi 12+" href="http://www.pegi.info/"><img src="/images/images/2630-12+.gif" /></a></li></ul>
+            </td>
+        </tr>
+        <tr>
+            <td class="legallist">
+                <ul id="ctl00_fFooter_ghcLegalList"><li class="first"><a href="http://www.ea.com/global/legal/legalnotice.jsp">©2007 Electronic Arts Inc. All rights reserved.</a></li><li><a href="http://www.ea.com/global/legal/privacy_noseal.jsp">Privacy policy</a></li><li><a href="http://www.ea.com/global/legal/tos.jsp">Terms of Service</a></li><li><a href="http://jobs.ea.com/pljb/ElectronicArts/Europe/applicant/index.jsp">Jobs at EA</a></li><li><a href="http://www.electronicarts.co.uk/press">Press</a></li></ul>
+            </td>
+        </tr>
+    </table>
+</div>
+	            </td>
+	            <td>&nbsp;</td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>
